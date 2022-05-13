@@ -83,7 +83,5 @@ with open(file_to_load) as election_data:
         f"-------------------------\n"
     )
 
-            
-        
     #Printing the winning candidate:
     print(winner_display)
